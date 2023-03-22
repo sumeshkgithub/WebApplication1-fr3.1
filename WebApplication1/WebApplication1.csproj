@@ -8,13 +8,13 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNet.WebApi.Client">
          <Version>5.2.7</Version>
-    </Packagereference>
+    </PackageReference>
     <PackageReference Include="Microsoft.AspNetCore">
          <Version>4.8.1</Version>
-    </Packagereference>
+    </PackageReference>
     <PackageReference Include="System.Net.Http">
          <Version>4.3.4</version>
-    </Packagereference>
+    </PackageReference>
   </ItemGroup>
 
 
