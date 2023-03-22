@@ -11,8 +11,10 @@
       </Packagereference>
     <PackageReference Include="Microsoft.AspNetCore">
          <Version>4.8.1</Version>
+       </Packagereference>
     <PackageReference Include="System.Net.Http">
          <Version>4.3.4</version>
+       </Packagereference>
   </ItemGroup>
 
 
